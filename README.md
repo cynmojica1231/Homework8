@@ -25,10 +25,12 @@ When creating an open source project on GitHub, it is important to have a qualit
 To install necessary dependencies, run the following command:
 
 ```
-npm i
+first run npm install in order to install the following npm package dependencies as specified in the package.json:
 ```
 
-## Usage
+## Usage 
+
+*Instructions and examples for use:*
 
 repo will check this to see if it needs to be updated
 
@@ -50,4 +52,4 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at cmojica1231@gmail.com. You can find more of my work at [cynmojica](https://github.com/cynmojica/).
+If you have any questions about the repo, open an issue or contact me directly at cmojica1231@gmail.com. You can find more of my work at [cynmojica](https://github.com/cynmojica1231/).
