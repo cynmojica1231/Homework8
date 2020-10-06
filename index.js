@@ -47,8 +47,7 @@ const questions = [
   {
     type: "input",
     name: "contributing",
-    message:
-      "If applicable, provide guidelines on how other developers can contribute to your project.",
+    message: "What does the user need to know about contributing to the repo?",
   },
 ];
 
