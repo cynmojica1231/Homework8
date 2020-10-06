@@ -22,15 +22,11 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Installation
 
-To install necessary dependencies, run the following command:
-
-```
 first run npm install in order to install the following npm package dependencies as specified in the package.json:
-```
 
-## Usage 
+## Usage
 
-*Instructions and examples for use:*
+_Instructions and examples for use:_
 
 repo will check this to see if it needs to be updated
 
