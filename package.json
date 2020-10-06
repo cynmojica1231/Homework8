@@ -10,12 +10,8 @@
     "type": "git",
     "url": "git@github.com:cynmojica1231/Homework9.git"
   },
-  "author": "",
+  "author": "Cynthia Mojica",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": " ",
   "dependencies": {
     "axios": "^0.19.2",
     "inquirer": "^7.3.3"
