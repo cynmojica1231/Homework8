@@ -1,10 +1,10 @@
-# Good README Generator
+# Good ReadMe Generator
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
+In software development, a repository is a central file storage location. It is used by version control systems to store multiple versions of files. While a repository can be configured on a local machine for a single user, it is often stored on a server, which can be accessed by multiple users.
 
 ## Table of Contents
 
@@ -22,13 +22,17 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Installation
 
-first run npm install in order to install the following npm package dependencies as specified in the package.json:
+To install necessary dependencies, run the following command:
+
+```
+npm i
+```
 
 ## Usage
 
 _Instructions and examples for use:_
 
-repo will check this to see if it needs to be updated
+![Gif demo of README-generator](assets/GoodReadme-demo.gif)
 
 ## License
 
@@ -36,7 +40,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-When someone opens a pull request or creates an issue
+you can add a file with contribution guidelines to your project repository's root, docs, or .github folder. When someone opens a pull request or creates an issue, they will see a link to that file.
 
 ## Tests
 
@@ -48,4 +52,4 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at cmojica1231@gmail.com. You can find more of my work at [cynmojica](https://github.com/cynmojica1231/).
+If you have any questions about the repo, open an issue or contact me directly at cynmojica12131@gmail.com. You can find more of my work at [cynmojica1231](https://github.com/cynmojica1231/).
